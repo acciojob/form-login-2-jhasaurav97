@@ -10,4 +10,4 @@ submit.addEventListener("click", () => {
 	Last Name: ${lName.value}
 	Phone Number: ${phone.value}
 	Email ID: ${email.value}`);
-})
+});
